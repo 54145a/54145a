@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-我是145a
 <!--
 **54145a/54145a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
