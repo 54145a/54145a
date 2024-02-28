@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 我能够熟练使用[Box3引擎](https://box3.fun)
+- 🌱 我正在学习c++和HTML
+
 <!--
 **54145a/54145a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
