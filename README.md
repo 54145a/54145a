@@ -2,6 +2,8 @@
 
 - 🔭 我能够熟练使用[Box引擎](https://dao3.fun/)
 - 🌱 我正在学习HTML
+- ⚡ 我的梦想是让HPLA这个单词和145这个数字家喻户晓
+- 💬 HPLA和145没有实际意义，只是我随便打的几个字符 :)
 
 <!--
 **54145a/54145a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
