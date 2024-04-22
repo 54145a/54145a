@@ -1,10 +1,12 @@
 ### Hi there 👋
 
+**代码之力，无限致励。Powered code, powers me.**
+
 - 🔭 我能够熟练使用[Box引擎](https://dao3.fun/)
 - 🌱 我正在学习HTML
 - 📫 我经常使用这些名称 145a、54145a、HPLA、HPLAsoft
-- ⚡ 我的梦想是让HPLA这个单词和145这个数字家喻户晓。我主要在Github、Dao3、Fandom等地方活动，如果在其它地方遇到我请确认身份真实性。
-- 💬 HPLA和145没有实际意义，只是我随便打的几个字符。54145a表示:我(5)是(4)145a :)
+- ⚡ 我主要在Github、Dao3、Fandom等地方活动。
+- 💬 HPLA和145没有实际意义，只是我随便打的几个字符。
 
 <!--
 **54145a/54145a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
