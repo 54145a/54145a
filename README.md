@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-- 👯 我曾经能够熟练使用[Box引擎](https://dao3.fun/)
-- 💬 145a没有实际意义（）
-- ⚡ 我的别名:54145a、HPLA
-
+- 🔭 I’m currently working on [The CHRP Project](https://bcm.fandom.com/zh).
+- 🌱 I’m currently learning Mediawiki, cplusplus, html, javascript, and css.
+- 💬 My name "145a" is made of four random characters.
+- ⚡ My aliases: 54145a、HPLA
+- ⚡ I used to build games with [The Box Engine](https://dao3.fun/)
 <!--
 以下为彩蛋～
 
