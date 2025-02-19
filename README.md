@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [The CHRP Project](https://bcm.fandom.com/zh).
+- 🔭 I’m currently working on [The CHR<s>P</s> Project](https://bcm.fandom.com/zh).
 - 🌱 I’m currently learning Mediawiki, cplusplus, html, javascript, and css.
 - 💬 My name "145a" is made of four random characters.
 - ⚡ My aliases: 54145a、HPLA
