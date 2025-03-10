@@ -5,8 +5,9 @@
 - 💬 My name "145a" is made of four random characters.
 - ⚡ My aliases: 54145a、HPLA
 - ⚡ I used to build games with [The Box Engine](https://dao3.fun/)
+
 <!--
-以下为彩蛋～
+以下内容将在合适的时候公开
 
 我小时候梦想制作一个叫HPLA的软件
 
