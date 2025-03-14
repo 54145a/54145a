@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [The CHR<s>P</s> Project](https://bcm.fandom.com/zh).
-- 🌱 I’m currently learning Mediawiki, cplusplus, html, javascript, and css.
+- 🔭 I’m currently working on [The Fandom Codemao Wiki](https://bcm.fandom.com/zh).
+- 🌱 I’m currently learning Mediawiki, c++, javascript, and css.
 - 💬 My name "145a" is made of four random characters.
 - ⚡ My aliases: 54145a、HPLA
 - ⚡ I used to build games with [The Box Engine](https://dao3.fun/)
@@ -18,8 +18,9 @@
 * 启蒙时代（五年级）：c++
 * 神岛时代（六年级）：js(box3)
 * OI时代（初一）（巅峰）：c++、js(box3)
-* 前端时代（初二）：html、js、css
-* IO时代（至今）：沉迷io games
+* 前端时代（初二前期）：html、js、css
+* IO时代（初二寒假至初三寒假）：沉迷io games
+* To be written!
 
 我很喜欢记录历史，我创建了Fandom上的编程猫社区Wiki
 
