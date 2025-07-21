@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [The Fandom Codemao Wiki](https://bcm.fandom.com/zh).
-- 🌱 I’m currently learning Mediawiki, c++, javascript, and css.
-- 💬 My name "145a" is made of four random characters.
+- 🔭 I’m currently working on [The Fandom Codemao History Wiki](https://bcm.fandom.com/zh).
+- 🌱 I’m currently learning c++, javascript, and css.
+- 💬 My name "145a" is just four random characters.
 - ⚡ My aliases: 54145a、HPLA
 - ⚡ I used to build games with [The Box Engine](https://dao3.fun/)
 
