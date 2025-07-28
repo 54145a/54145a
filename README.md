@@ -4,12 +4,9 @@
 - 🌱 I’m currently learning c++, javascript, and css.
 - 💬 My name "145a" is just four random characters.
 - ⚡ My aliases: 54145a、HPLA
-- ⚡ I used to build games with [The Box Engine](https://dao3.fun/)
 
 <!--
-以下内容将在合适的时候公开
-
-我小时候梦想制作一个叫HPLA的软件
+- ⚡ I used to build games with [The Box Engine](https://dao3.fun/)
 
 我在Dao3的时候很希望自己的地图和我的名字「145」一起上首页
 
