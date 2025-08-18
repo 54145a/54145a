@@ -1,27 +1,23 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [The Fandom Codemao History Wiki](https://bcm.fandom.com/zh).
-- 🌱 I’m currently learning c++, javascript, and css.
+- 🌱 I’m currently learning c++, javascript and many stuff...
 - 💬 My name "145a" is just four random characters.
 - ⚡ My aliases: 54145a、HPLA
 
 <!--
 - ⚡ I used to build games with [The Box Engine](https://dao3.fun/)
 
-我在Dao3的时候很希望自己的地图和我的名字「145」一起上首页
+我在很希望自己的地图和我的名字「145」一起上首页
 
-145a是我在注册MC的时候为了不重名随机打的名字
+145a是我在注册的时候为了不重名随机打的名字
 
 * 启蒙时代（五年级）：c++
-* 神岛时代（六年级）：js(box3)
+* 神岛时代（六年级）：js(box)
 * OI时代（初一）（巅峰）：c++、js(box3)
 * 前端时代（初二前期）：html、js、css
-* IO时代（初二寒假至初三寒假）：沉迷io games
 * To be written!
 
 我很喜欢记录历史，我创建了Fandom上的编程猫社区Wiki
-
-hpla，从你的io梦中醒来吧，就像从你的145梦中醒来一样，是时候继续追逐你的梦想了
 -->
 <!--
 **54145a/54145a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
