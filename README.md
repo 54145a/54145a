@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning c++, javascript and many stuff...
 - 💬 My name "145a" is just four random characters.
 - ⚡ My aliases: 54145a、HPLA
-- 🧭 [A link to Bing](https://cn.bing.com) (you'll never guess out what this link's for!)
+- 🧭 [A link to Bing](https://cn.bing.com) (you'll never guess out what this link's for! Don't tell others how to get here or how to use this link,,, if u know what this link's for. dont use this link for illegal purposes)
 
 <!--
 智慧学伴 - 语雀 - Github Auth - Github Docs - Octo's profile - my link above - FREEDOM AT LAST
