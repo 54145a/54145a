@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 代码之力，无限致励。
+
 I am 54145a (145a in short), high school student and foss enthusiast.
 - 🌱 I’m currently learning cplusplus
 - 💬 My name "145a" is just four random characters.
