@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I am 145a, high school student and foss enthusiast.
+代码之力，无限致励。
+I am 54145a (145a in short), high school student and foss enthusiast.
 - 🌱 I’m currently learning cplusplus
 - 💬 My name "145a" is just four random characters.
-- ⚡ My aliases: 54145a、HPLA
 - 🧭 [A link to Bing](https://cn.bing.com) (you'll never guess out what this link's for! Don't tell others how to get here or how to use this link,,, if u know what this link's for. dont use this link for illegal purposes)
 
 <!--
@@ -12,6 +12,7 @@ DON'T SHARE THIS METHOD OR IT WILL BE BANNED BY THE SCHOOL
 The text above will be published when I leave the school :)
 
 - ⚡ I used to build games with [The Box Engine](https://dao3.fun/)
+- ⚡ My aliases: 54145a、HPLA
 
 我（曾经）很希望自己的地图和我的名字「145」一起上岛之首页
 
