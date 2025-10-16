@@ -7,7 +7,7 @@ I am 54145a (145a in short), high school student and foss enthusiast.
 - 💬 My name "145a" is just four random characters.
 - 🧭 [A link to Bing](https://cn.bing.com) (you'll never guess out what this link's for! Don't tell others how to get here or how to use this link,,, if u know what this link's for. dont use this link for illegal purposes)
 
-刺客, 金子, 狠1, 小李, 火龙, Oskar, 百首, 私发, 星辰09, 玄天, 1……9q, 5nidie, 马洛斯, 西瓜, Kevin0wvf, 脚本, sodayo, and countless friends not listed … I miss all of u ………
+刺客, 金子, 狠1, 小李, 火龙, Oskar, 百首, 私发, 星辰09, 玄天, 1……9q, 5nidie, 马洛斯, 西瓜, Kevin0wvf, 脚本, sodayo, smyluke, Star_Ink_Sans, and countless friends not listed … I miss all of u ………
 <!--
 School Jail - ? - Github Auth - Github Docs - Octo's profile - my link above - FREEDOM AT LAST
 DON'T SHARE THIS METHOD OR IT WILL BE BANNED BY THE SCHOOL
