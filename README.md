@@ -3,14 +3,26 @@
 代码之力，无限致励。
 
 I am 54145a (145a in short), high school student and foss enthusiast.
-- 🌱 I’m currently learning cplusplus
-- 💬 My name "145a" is just four random characters.
+- 🔭 Goal: become an independent developer
+- 💬 My name "145a" is just 4 random characters.
 
-刺客, 金子, 狠1, 小李, 火龙, Oskar, 百首, 私发, 星辰09, 玄天, 1……9q, 5nidie, 马洛斯, 西瓜, Kevin0wvf, 脚本, sodayo, smyluke, Star_Ink_Sans, and countless friends not listed … I miss all of u ………
+## Skills
+* Markdown
+* HTML, CSS, Javascript
+* Termux
+* Three.js
+
+## Developing Skills
+* Typing
+* Bash
+* Git
+* Node.js
+* CMake
+* C++
+* Algorithm
+
+刺客, 金子, 狠1, 小李, 火龙, Oskar, 百首, 私发, 星辰09, 玄天, 1……9q, 5nidie, 马洛斯, 西瓜, Kevin, 脚本, sodayo, smyluke, Star_Ink_Sans, and countless friends not listed … I miss all of u ………
 <!--
-School Jail - ? - Github Auth - Github Docs - Octo's profile - my link above - FREEDOM AT LAST
-DON'T SHARE THIS METHOD OR IT WILL BE BANNED BY THE SCHOOL
-The text above will be published when I leave the school :)
 
 - ⚡ I used to build games with [The Box Engine](https://dao3.fun/)
 - ⚡ My aliases: 54145a、HPLA
