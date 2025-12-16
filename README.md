@@ -12,6 +12,7 @@
 ## 🌱 Developing Skills
 * Bash
 * Git
+* Python basics
 * Node.js
 * CMake
 * C
