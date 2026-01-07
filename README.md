@@ -7,7 +7,6 @@
 * HTML, CSS, Javascript
 * Termux
 * C++ Basics
-* Three.js
 
 ## 🌱 Developing Skills
 * Bash
