@@ -19,7 +19,7 @@
 
 ## ❓ Developing Projects
 * 145 Storage 2
-* A mysterious school projects
+* A mysterious school project
 * A mysterious programming language
 
 ## 🔭 Historical Projects
