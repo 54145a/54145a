@@ -5,7 +5,7 @@
 ### ⚡ Skills
 * Markdown
 * HTML & CSS
-* Javascript
+* JS (and TS)
 * Termux
 * C++ Basics
 
