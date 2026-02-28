@@ -3,16 +3,16 @@
 代码之力，无限致励。
 
 ### ⚡ Skills
-* Markdown
-* HTML & CSS
 * JS (and TS)
+* HTML & CSS
 * Termux
-* C++ Basics
+* C++
 
 ### 🌱 Developing Skills
-* Bash
-* Python
-* Node.js
+* Advanced Bash
+* Python basics
+* Node.js, Deno, Bun
+* AssemblyScript
 * CMake
 * C
 * Advanced C++
@@ -23,9 +23,8 @@
 * ❓This project existed, but its source code was lost.
 * 🌼This project is open-source.
 <br />
-
 * 🌼~~145 Security~~
-* ❓🌼~~145 Quick Build~~
+* 🌼❓~~145 Quick Build~~
 * ❓~~145 Home Page~~
 * ❓~~Dragon Boat Race~~
 * 🌼❓~~吉吉喵模拟器~~
@@ -42,6 +41,7 @@
 * 🌼~~Battle of Pens(BOP)~~
 * 🌼145Storage 2
 * 🌼145watch
+* ***And 3 more being worked on***
 
 <!--
 btw 刺客, 金子, 狠1, 小李, 火龙, Oskar, 百首, 私发, 星辰09, 玄天, 1……9q, 5nidie, 马洛斯, 西瓜, Kevin, 脚本, sodayo, smyluke, Star_Ink_Sans, and countless friends not listed … I miss all of u ………
