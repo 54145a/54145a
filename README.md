@@ -7,6 +7,7 @@
 * HTML & CSS
 * Termux
 * C++
+* Wikitext
 
 ### 🌱 Developing Skills
 * Advanced Bash
@@ -38,7 +39,7 @@
 * 🌼~~Dao3 http bridge~~
 * 🌼~~Dao3 static tool~~
 * 🌼~~Open CyberWar(aka 次时空对决)~~
-* 🌼~~Fandom Codemao Wiki~~
+* 🌼Fandom Codemao Wiki
 * 🌼~~Battle of Pens(BOP)~~
 * 🌼145Storage 2
 * 🌼145watch
