@@ -11,8 +11,9 @@
 
 ### 🌱 Developing Skills
 * Advanced Bash
-* Python basics
+* Python
 * Node.js, Deno, Bun
+* Hono
 * AssemblyScript
 * CMake
 * C
