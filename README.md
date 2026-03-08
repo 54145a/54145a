@@ -20,10 +20,10 @@
 * Algorithm
 
 ### 🔭 Projects
-* ~~This project~~ is deprecated.
+* ~~This project~~ is dead.
 * ❓This project existed, but its source code was lost.
 * 🌼This project is open-source.
-* 🌱This project is not open-source yet but it will be in the near future.
+* 🌱This project is not yet open-source but it will be in the near future.
 
 #### Deprecated
 * 🌼~~145 Security~~
@@ -42,17 +42,19 @@
 * 🌼~~Open CyberWar(aka 次时空对决)~~
 * 🌼Fandom Codemao Wiki
 * 🌼~~Battle of Pens(BOP)~~
+
+#### Being actively worked on
 * 🌼145Storage 2
 * 🌼145watch
-
-#### Being worked on
 * 🌱Code alias
 * 🌱Three ????-based ???????????
 * ?????? ??? solution
 
-#### incubating
+#### Incubating ideas
+* 🌼essh
 * 🌱145???k
 * 🌱Base64URL ????? ??????
+* 🌱?????? lang
 
 <!--
 btw 刺客, 金子, 狠1, 小李, 火龙, Oskar, 百首, 私发, 星辰09, 玄天, 1……9q, 5nidie, 马洛斯, 西瓜, Kevin, 脚本, sodayo, smyluke, Star_Ink_Sans, and countless friends not listed … I miss u all ………
