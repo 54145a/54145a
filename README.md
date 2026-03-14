@@ -27,6 +27,8 @@
 * 🌱This project is not yet open-source but it will be in the near future.
 
 #### Deprecated
+<details>
+
 * 🌼~~145 Security~~
 * 🌼❓~~145 Quick Build~~
 * ❓~~145 Home Page~~
@@ -43,6 +45,8 @@
 * 🌼~~Open CyberWar(aka 次时空对决)~~
 * 🌼Fandom Codemao Wiki
 * 🌼~~Battle of Pens(BOP)~~
+
+</details>
 
 #### Being actively worked on
 * 🌼145Storage 2
