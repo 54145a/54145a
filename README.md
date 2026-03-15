@@ -57,9 +57,10 @@
 
 #### Incubating ideas
 * 🌼essh
+* 🌱145I?E
+* 🌱145k??
 * 🌱145???k
 * 🌱Base64URL ????? ??????
-* 🌱?????? lang
 
 <!--
 btw 刺客, 金子, 狠1, 小李, 火龙, Oskar, 百首, 私发, 星辰09, 玄天, 1……9q, 5nidie, 马洛斯, 西瓜, Kevin, 脚本, sodayo, smyluke, Star_Ink_Sans, and countless friends not listed … I miss u all ………
