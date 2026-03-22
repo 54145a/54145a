@@ -5,6 +5,7 @@
 ### ⚡ Skills
 * JS (and TS)
 * HTML & CSS
+* Python
 * Termux
 * C++
 * Wikitext
