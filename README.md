@@ -3,19 +3,15 @@
 代码之力，无限致励。
 
 ### ⚡ Skills
+* Termux
 * JS (and TS)
 * HTML & CSS
 * Python
-* Termux
 * C++
 * Wikitext
 
 ### 🌱 Developing Skills
 * Advanced Bash
-* Python
-* Node.js, Deno, Bun
-* Hono
-* AssemblyScript
 * CMake
 * C
 * Advanced C++
@@ -26,6 +22,21 @@
 * ❓This project existed, but its source code was lost.
 * 🌼This project is open-source.
 * 🌱This project is not yet open-source but it will be in the near future.
+
+#### Being actively worked on
+* 🌼145Storage 2
+* 🌼145watch
+* 🌱Three ????-based ???????????
+* ?????? ??? solution
+
+#### Suspended, but not abandoned
+* 🌱Code alias
+* 🌼essh
+
+#### Ideas still incubating
+* 🌱145???k
+* 🌱Base64URL ????? ??????
+* 🌱145key
 
 #### Deprecated
 <details>
@@ -48,21 +59,6 @@
 * 🌼~~Battle of Pens(BOP)~~
 
 </details>
-
-#### Being actively worked on
-* 🌼145Storage 2
-* 🌼145watch
-* 🌱Three ????-based ???????????
-* ?????? ??? solution
-
-#### Suspended, but not abandoned
-* 🌱Code alias
-* 🌼essh
-
-#### Ideas still incubating
-* 🌱145???k
-* 🌱Base64URL ????? ??????
-* 🌱145key
 
 <!--
 btw 刺客, 金子, 狠1, 小李, 火龙, Oskar, 百首, 私发, 星辰09, 玄天, 1……9q, 5nidie, 马洛斯, 西瓜, Kevin, 脚本, sodayo, smyluke, Star_Ink_Sans, and countless friends not listed … I miss u all ………
