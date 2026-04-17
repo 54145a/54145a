@@ -21,7 +21,7 @@
 * ~~This project~~ is dead.
 * ❓This project existed, but its source code was lost.
 * 🌼This project is open-source.
-* 🌱This project is not yet open-source but it will be in the near future.
+* 🌱This project will be open-source in the near future.
 
 #### Being actively worked on
 * 🌼145Storage 2
@@ -30,7 +30,8 @@
 * ?????? ??? solution
 
 #### Suspended, but not abandoned
-* 🌱Code alias
+* 🌱Code Forward
+* 🌱????? Island
 * 🌼essh
 
 #### Ideas still incubating
