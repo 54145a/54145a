@@ -4,14 +4,13 @@
 
 ### ⚡ Skills
 * Termux
-* JS (and TS)
-* HTML & CSS
-* Python
-* C++
+* JS&TS
+* C&C++
 * Wikitext
 
 ### 🌱 Developing Skills
 * Advanced Bash
+* Python
 * CMake
 * C
 * Advanced C++
@@ -30,7 +29,6 @@
 * ?????? ??? solution
 
 #### Suspended, but not abandoned
-* 🌱Code Forward
 * 🌱????? Island
 * 🌼essh
 
@@ -42,12 +40,12 @@
 #### Deprecated
 <details>
 
-* 🌼~~145 Security~~
-* 🌼❓~~145 Quick Build~~
-* ❓~~145 Home Page~~
-* ❓~~Dragon Boat Race~~
+* 🌼~~145安全大师~~
+* 🌼❓~~145速建大师~~
+* ❓~~145主页~~
+* ❓~~赛龙舟~~
 * 🌼❓~~吉吉喵模拟器~~
-* ❓~~War on the school desk(aka BOP 1)~~
+* ❓~~课桌上的战争（aka BOP 1)~~
 * ❓~~万物皆可弹(aka BOP 2)~~
 * 🌼❓~~145lab legacy~~
 * 🌼~~Github access helper~~
@@ -58,6 +56,7 @@
 * 🌼~~Open CyberWar(aka 次时空对决)~~
 * 🌼Fandom Codemao Wiki
 * 🌼~~Battle of Pens(BOP)~~
+* ~~Code Forward~~
 
 </details>
 
