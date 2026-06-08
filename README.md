@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-代码之力，无限致励。
+代码之力，无限致励。Code empowered, thoughts inspired.
 
 ### ⚡ Skills
 * Termux
