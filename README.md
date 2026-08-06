@@ -8,12 +8,9 @@
 * C&C++
 * Wikitext
 
-### 🌱 Developing Skills
-* Advanced Bash
+### 🌱  Skills Developing
+* Bash
 * Python
-* CMake
-* C
-* Advanced C++
 * Algorithm
 
 ### 🔭 Projects
@@ -23,19 +20,17 @@
 * 🌱This project will be open-source in the near future.
 
 #### Being actively worked on
-* 🌼145Storage 2
+* 🌼145Storage2
 * 🌼145watch
-* 🌱Three ????-based ???????????
 * ?????? ??? solution
 
 #### Suspended, but not abandoned
 * 🌱????? Island
-* 🌼essh
-
-#### Ideas still incubating
 * 🌱145???k
 * 🌱Base64URL ????? ??????
 * 🌱145key
+
+#### Ideas still incubating
 * 🌱L???????-????????or
 
 #### Deprecated
@@ -58,6 +53,8 @@
 * 🌼Fandom Codemao Wiki
 * 🌼~~Battle of Pens(BOP)~~
 * ~~Code Forward~~
+* 🌱Three ????-based ???????????
+* 🌼~~essh~~
 
 </details>
 
