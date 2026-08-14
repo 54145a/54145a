@@ -23,6 +23,7 @@
 * 🌼145Storage2
 * 🌼145watch
 * ?????? ??? solution
+* 🌼Curio(fork)
 
 #### Suspended, but not abandoned
 * 🌱????? Island
