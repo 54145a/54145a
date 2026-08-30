@@ -21,18 +21,16 @@
 
 #### Being actively worked on
 * 🌼145Storage2
-* 🌼145watch
-* ?????? ??? solution
-* 🌼Curio(fork)
+* 🌼Culiq
+* 🌼Image sharing with Base64URL
 
 #### Suspended, but not abandoned
-* 🌱????? Island
-* 🌱145???k
-* 🌱Base64URL ????? ??????
 * 🌱145key
+* 🌼145watch
 
 #### Ideas still incubating
 * 🌱L???????-????????or
+* 🌱DoF
 
 #### Deprecated
 <details>
@@ -54,8 +52,9 @@
 * 🌼Fandom Codemao Wiki
 * 🌼~~Battle of Pens(BOP)~~
 * ~~Code Forward~~
-* 🌱Three ????-based ???????????
+* 🌱Three.js scan-based pathfinding & ← based indoor navigation
 * 🌼~~essh~~
+* Input Island
 
 </details>
 
