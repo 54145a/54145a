@@ -13,7 +13,7 @@
 * Python
 * Algorithm
 
-### 🔭 Projects
+### 🔭 My Projects
 * ~~This project~~ is dead.
 * ❓This project existed, but its source code was lost.
 * 🌼This project is open-source.
@@ -22,7 +22,7 @@
 #### Being actively worked on
 * 🌼145Storage2
 * 🌼Culiq
-* 🌱DoF
+* 🌱The DoF Project
 
 #### Suspended, but not abandoned
 * 🌼145watch
