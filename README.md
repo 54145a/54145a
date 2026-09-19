@@ -9,9 +9,13 @@
 * Wikitext
 
 ### 🌱  Skills Developing
-* Bash
 * Python
 * Algorithm
+* ML
+
+### ❓  Skills hoping to develop
+* Qt
+* Rust
 
 ### 🔭 My Projects
 * ~~This project~~ is dead.
