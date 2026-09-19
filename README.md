@@ -23,6 +23,9 @@
 * 🌼145Storage2
 * 🌼Culiq
 * 🌱The DoF Project
+  * node-ws-over-trystero
+  * websocket-over-trystero
+  * D3F
 
 #### Suspended, but not abandoned
 * 🌼145watch
@@ -31,6 +34,7 @@
 #### Ideas still incubating
 * 🌱L???????-????????or
 * 🌱145key
+* 🌱Forma
 
 #### Deprecated
 <details>
