@@ -26,7 +26,7 @@
 #### ⭐ Featured (projects that I'm proud of)
 * 🌼145Storage2
 * 🌼Culiq
-* 
+
 #### 🛠 Being actively worked on
 * 🌱The DoF Project
   * node-??-over-????????
