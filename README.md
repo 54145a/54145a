@@ -23,25 +23,27 @@
 * 🌼This project is open-source.
 * 🌱This project will be open-source in the near future.
 
-#### Being actively worked on
+#### ⭐ Featured (projects that I'm proud of)
 * 🌼145Storage2
 * 🌼Culiq
+* 
+#### 🛠 Being actively worked on
 * 🌱The DoF Project
   * node-??-over-????????
   * ?????????-over-????????
   * D3F
   * Forma
 
-#### Suspended, but not abandoned
+#### 💤️ Suspended, but not abandoned
 * 🌼145watch
 * 🌼Image sharing with Base64URL
 
-#### Ideas still incubating
+#### 🤔 Ideas still incubating
 * 🌱L???????-????????or
 * 🌱145key
 * 🌱Forma
 
-#### Deprecated
+#### 🗑 Deprecated
 <details>
 
 * 🌼~~145安全大师~~
