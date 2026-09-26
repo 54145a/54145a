@@ -19,29 +19,31 @@
 
 ### 🔭 My Projects
 * ~~This project~~ is dead.
-* ❓This project existed, but its source code was lost.
-* 🌼This project is open-source.
-* 🌱This project will be open-source in the near future.
+* ❓ This project existed, but its source code was lost.
+* 🌼 Open-source projects
+* 🌱 Incoming open-source projects
+* 🪴 Open-source projects I contributed to
 
 #### ⭐ Featured (projects that I'm proud of)
-* 🌼145Storage2
-* 🌼Culiq
+* 🌼 145Storage2
+* 🌼 Culiq
+* 🪴 strict-queryselector
 
 #### 🛠 Being actively worked on
-* 🌱The DoF Project
+* 🌱 The DoF Project
   * node-??-over-????????
   * ?????????-over-????????
   * D3F
   * Forma
 
 #### 💤️ Suspended, but not abandoned
-* 🌼145watch
-* 🌼Image sharing with Base64URL
+* 🌼 145watch
+* 🌼 Image sharing with Base64URL
 
 #### 🤔 Ideas still incubating
-* 🌱L???????-????????or
-* 🌱145key
-* 🌱Forma
+* 🌱 L???????-????????or
+* 🌱 145key
+* 🌱 Forma
 
 #### 🗑 Deprecated
 <details>
