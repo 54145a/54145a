@@ -5,7 +5,6 @@
 ### ⚡ Skills
 * Termux
 * JS&TS
-* C&C++
 * Wikitext
 
 ### 🌱  Skills Developing
@@ -14,8 +13,8 @@
 * ML
 
 ### ❓  Skills hoping to develop
-* Qt
-* Rust
+* C++&Qt
+* Rust&Tauri
 
 ### 🔭 My Projects
 * ~~This project~~ is dead.
