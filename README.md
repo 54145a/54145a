@@ -8,9 +8,8 @@
 * Wikitext
 
 ### 🌱  Skills Developing
-* Python
+* Python&ML
 * Algorithm
-* ML
 
 ### ❓  Skills hoping to develop
 * C++&Qt
