@@ -62,6 +62,7 @@
 * 🌱Three.js scan-based pathfinding & ← based indoor navigation
 * 🌼~~essh~~
 * Input Island
+* ~~https://github.com/54145a/dsh-workbuddy-connect-codebuddy-cli-patch~~
 
 </details>
 
