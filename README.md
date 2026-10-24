@@ -22,7 +22,7 @@
 * 🌱 Incoming open-source projects
 * 🪴 Open-source projects I contributed to
 
-#### 🛠 Being actively worked on
+#### ⛵ Being actively worked on
 * 🌼 145Storage2
 * 🌼 Culiq
 * 🌱 node-??-over-????????
@@ -30,12 +30,12 @@
 * 🌱 D3F
 * 🌱 F???? ??????
 
-#### 💤️ Suspended, but not abandoned
+#### 🛠 maintained
 * 🌼 145watch
-* 🌼 Image sharing with Base64URL
 * 🪴 strict-queryselector
 
-#### 🤔 Ideas still incubating
+#### 💤️ Suspended
+* 🌼 Image sharing with Base64URL
 * 🌱 L???????-????????or
 * 🌱 145key
 
