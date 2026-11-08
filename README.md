@@ -16,7 +16,7 @@
 * Rust&Tauri
 
 ### 🔭 My Projects
-* ~~This project~~ is dead.
+* ~~Dead projects~~
 * ❓ This project existed, but its source code was lost.
 * 🌼 Open-source projects
 * 🌱 Incoming open-source projects
@@ -27,12 +27,12 @@
 * 🌼 Culiq
 * 🌱 node-??-over-????????
 * 🌱 w????????-over-????????
-* 🌱 D3F
-* 🌱 F???? ??????
 
 #### 🛠 maintained
 * 🌼 145watch
 * 🪴 strict-queryselector
+* 🌱 D3F
+* 🌱 F???? ??????
 
 #### 💤️ Suspended
 * 🌼 Image sharing with Base64URL
